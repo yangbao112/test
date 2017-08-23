@@ -1,4 +1,2 @@
 # test
-just another repository
-
-sdfasdf dfsdfsdfdf
+just another
